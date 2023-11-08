@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/galleryFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title=""
+        android:icon="@drawable/photo_album"/>
+    <item
+        android:id="@+id/cameraFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title=""
+        android:icon="@drawable/capture_button"/>
+    <item
+        android:id="@+id/renew"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title=""
+        android:icon="@drawable/auto_renew"/>
+</menu>
